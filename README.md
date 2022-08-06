@@ -1,0 +1,2 @@
+# adim-scarlet
+Tech wise 
